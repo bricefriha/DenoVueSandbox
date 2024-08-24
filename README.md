@@ -33,6 +33,11 @@ Build production assets:
 $ deno task build
 ```
 
+push to github pages:
+```Bash
+git subtree push --prefix dist origin publish
+```
+
 ## Caveats
 
 Currently there's a caveat for Deno users:
