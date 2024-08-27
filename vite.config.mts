@@ -6,5 +6,5 @@ import 'npm:vue@^3.4.23'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/'
+  base: '/DenoVueSandbox/'//https://bricefriha.github.io/DenoVueSandbox/
 })
